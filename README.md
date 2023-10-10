@@ -1,4 +1,4 @@
 # alpine_mc
 
-##Use
+## Use
 you must install minecraft_server.jar to "data/"
